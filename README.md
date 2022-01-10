@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GreeshSah
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on electronics & Technical projects.
+- 💞️ I’m looking to collaborate on electronics projects.
 - 📫 2h6p4fzk8@mozmail.com
 
 <!---
