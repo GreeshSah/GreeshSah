@@ -9,7 +9,7 @@
 ### ⚡ Overview
 * **Current:** Engineering Support Staff at JSU Center for Manufacturing Support (CMS), Alabama.
 * **Background:** Electronics Engineering Professional at National Innovation Center, Nepal.
-* **Core Focus:** Advanced lean Manufacturing, Robotics, Automation, and Hardware Prototyping.. 
+* **Core Focus:** Advanced Lean Manufacturing, Robotics, Automation, and Hardware Prototyping.. 
 
 ---
 
