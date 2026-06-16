@@ -2,27 +2,20 @@
 
 # Hi, I'm Greesh👋
 
-**Electrical Sub-Engineer &bull; Applied Manufacturing Engineering Student at JSU**
-
-Building solutions where electronics, industrial robotics, and automated manufacturing meet. 
+**Electronics & Manufacturing Engineer**
 
 ---
 
-### ⚡ The Essentials
-* 🛠️ **Current:** Engineering Support Staff at the JSU Center for Manufacturing Support (CMS).
-* 🇳🇵 **Background:** Electronics Engineering Professional at the National Innovation Center, Nepal.
+### ⚡ Overview
+* **Current:** Engineering Support Staff at JSU Center for Manufacturing Support (CMS), Alabama.
+* **Background:** Electronics Engineering Professional at National Innovation Center, Nepal.
+* **Core Focus:** Advanced lean Manufacturing, Robotics, Automation, and Hardware Prototyping.. 
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GreeshSah&show_icons=true&theme=tokyonight&hide_border=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshSah&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</p>
+🤝 Open to collaborate on electronics & automation projects &bull; <a href="mailto:2h6p4fzk8@mozmail.com">2h6p4fzk8@mozmail.com</a>
 
----
 
-📬 **Let's Connect:** [2h6p4fzk8@mozmail.com](mailto:2h6p4fzk8@mozmail.com)
 <!---
 GreeshSah/GreeshSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
