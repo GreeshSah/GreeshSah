@@ -9,12 +9,21 @@
 ### ⚡ Overview
 * **Current:** Engineering Support Staff at JSU Center for Manufacturing Support (CMS), Alabama.
 * **Background:** Electronics Engineering Professional at National Innovation Center, Nepal.
-* **Core Focus:** Advanced Lean Manufacturing, Robotics, Automation, and Hardware Prototyping.. 
+* **Core Focus:** Advanced Lean Manufacturing, Robotics, Automation, and Hardware Prototyping... 
 
 ---
 
 🤝 Open to collaborate on electronics & automation projects &bull; <a href="mailto:2h6p4fzk8@mozmail.com">2h6p4fzk8@mozmail.com</a>
 
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GreeshSah&show_icons=true&theme=tokyonight&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshSah&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+</p>
+
+---
 
 <!---
 GreeshSah/GreeshSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
